@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "q2-rank-abundance"
+version = "0.1.0"
+description = "Qiime2 plugin to generare Rank Abundance Boxplot visualization"
+authors = ["Alexandru Dumitrache"]
+readme = "README.md"
+packages = [{include = "q2_rank_abundance"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
