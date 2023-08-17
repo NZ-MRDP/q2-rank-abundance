@@ -1,6 +1,6 @@
 # Qiime2 Plugin: Rank Abundance Boxplot
 
-#### Python package for the Qiime2 framework to generates Rank Abundance Boxplots visualization
+#### Python package for the Qiime2 framework to generate Rank Abundance Boxplot visualization
 This QIIME 2 plugin produces a rank abundance plot inspired by the Whittaker curve concept, where the taxa relative frequencies are ranked by maxima and represented on a log-scale for readability 
 ##### Install from local path (cloned repo)
 ``` 
